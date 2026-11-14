@@ -62,10 +62,10 @@ node server.js
 ```
 
 ### Application URLs:
-- **Organizer Command Center**: `http://localhost:3000/index.html`
-- **Volunteer Responder Console**: `http://localhost:3000/volunteer.html`
-- **Civilian Emergency Report**: `http://localhost:3000/civilian.html?zone=FOOD-07`
-- **Demo Multi-Zone QR Generator**: `http://localhost:3000/demo-qr.html`
+- **Organizer Command Center**: [https://sahaaya-grid.onrender.com/index.html]
+- **Volunteer Responder Console**: [https://sahaaya-grid.onrender.com/volunteer.html]
+- **Civilian Emergency Report**: [https://sahaaya-grid.onrender.com/civilian.html?zone=FOOD-07]
+- **Demo Multi-Zone QR Generator**: [https://sahaaya-grid.onrender.com/demo-qr.html]
 
 ---
 
